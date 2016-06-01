@@ -1,8 +1,5 @@
 /**
  * This program recusively determines whether a given String is a palindrome. 
- * 
- * @author (Wei Li) 
- * @version (2/12/2015)
  */
 import java.util.*;
 public class RecursivePalindrome
