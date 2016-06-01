@@ -2,9 +2,6 @@
  * To write a program that uses the Monte Carlo sampling method to estimate 
  * the average number of bottles of e-Boost someone would have to drink to win 
  * a prize. 
- * 
- * Wei Li
- * 11/11/14
  */
 import java.io.IOException;
 import java.io.PrintWriter;
