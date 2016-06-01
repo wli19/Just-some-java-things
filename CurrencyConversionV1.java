@@ -1,6 +1,4 @@
 /**
- * Name: Wei Li
- * Date: 9/21/2014
  * The CurrencyConversion class converts an amount of money from a specific
  * country into the equivalent currency of another country given the current
  * exchange rate.
