@@ -1,8 +1,5 @@
 /**
  * Description: This program calculates the value of pi by simulating throwing darts at a dart board.
- * 
- * @author: Wei Li
- * @version: 12/7/14
  */
 import java.util.Scanner;
 import java.util.Random;
