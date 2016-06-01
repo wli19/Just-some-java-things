@@ -1,8 +1,5 @@
 /**
  * This program recusively calculaes the n-th Fibonacci number. 
- * 
- * @author (Wei Li) 
- * @version (2/9/2015)
  */
 import java.util.Scanner;
 public class FibonacciNumbers
