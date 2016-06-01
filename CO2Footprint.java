@@ -1,8 +1,5 @@
 /**
  * This program models an individual's CO2 production and reduction.
- * 
- * @author (Wei Li) 
- * @version (12/27/14)
  */
 public class CO2Footprint
 {
